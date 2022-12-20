@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://hrmag.ru/upload/iblock/bf0/hello_html_m279580.jpg);
+    position: absolute;
+    top: 20%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    color: rgb(219, 221, 232);
+}
+
+.card-body {
+    background-color: rgb(106, 78, 41);
+}
+
+.card-header, .card-footer {
+    background-color: rgb(32, 83, 26);
+}
